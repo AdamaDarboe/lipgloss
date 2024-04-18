@@ -9,6 +9,11 @@ width: 300px;
    width: 70%;
 }
 
+body{
+   background-color: rgb(226, 77, 127);
+}
 
-
-
+header{
+   background-color: rgb(237, 183, 192); 
+   
+}
